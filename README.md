@@ -2,6 +2,7 @@
 find the attached jupyter notebooks Of quantum circuits I programmed and tested on the IBM Quantum Lab:
 - **Adder(n):** This notebook contains a quantum circuit for addition.
 - **Sub(n):** This notebook contains a quantum circuit for subtraction.
+- **MODADD(3):** This notebook contains a quantum circuit for modular adder of (a + b) mod N where a and b 3 qubits and N 4 bits.
 
 Please, Let me know if any modification is required.
 
